@@ -30,5 +30,5 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun generateBmi(height: Float, weight: Float): Float =
-        (weight / height / height) * 1000
+        (weight / height / height) * 100
 }
