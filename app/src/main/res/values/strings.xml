@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name="main_button">Calculate</string>
+    <string name="toast_text">This is a sample message</string>
+    <string name="height">Height</string>
+    <string name="weight">Weight</string>
+    <string name="validation">Please fill required fields</string>
+    <string name="bm_result">Your BMI value is: %1$s</string>
+</resources>
